@@ -12,7 +12,7 @@ If number is even → green message
 If odd → blue message  
 If empty → red error   
 
-https://github.com/user-attachments/assets/b849ec2b-5098-409a-81ea-b046dcd52853
+https://github.com/user-attachments/assets/3352479e-51bf-43ae-99cc-721a5b7040d5
 
 ---
 
