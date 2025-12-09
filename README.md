@@ -21,7 +21,6 @@ https://github.com/user-attachments/assets/3352479e-51bf-43ae-99cc-721a5b7040d5
 Simple Calculator:   
 Two number inputs   
 Select operator (+ − × ÷)   
-Button: Calculate    
 Output: result   
 
 https://github.com/user-attachments/assets/e9bc546e-e8a4-463d-9539-e2a38009c0d2
