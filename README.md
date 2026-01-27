@@ -1,32 +1,29 @@
-# Web Programming Exercise 12
+# Web Programming Exercise 11
 
-Javascript Lectures:
-https://drive.google.com/drive/folders/18cbP7MUFi-wQ0m3TJKM8mJLyr6S75cWF?usp=sharing
+Javascript Forms, Inputs:
+https://drive.google.com/file/d/1qLl7o_zSwSDIJSwPDGn98haF1FSkPEGt/view?usp=sharing
+
 
 ## Exercise 1:
-Create a profile card that reacts to user actions.
 
-Requirements   
-• Show name, role, and profile image  
-• Button: Toggle Dark Mode  
-• Button: Show / Hide Bio  
-• Hover over image → border glows  
-• Use CSS transitions    
+Input: number  
+Button: check   
+If number is even → green message  
+If odd → blue message  
+If empty → red error   
 
-https://github.com/user-attachments/assets/7efe4ac9-2c71-4f0c-b381-a42645f95142
+https://github.com/user-attachments/assets/3352479e-51bf-43ae-99cc-721a5b7040d5
 
 ---
 
 ## Exercise 2:
-A counter with multiple controls and styling feedback.
 
-Requirements  
-• + and − buttons  
-• Reset button  
-• Count turns green if positive  
-• Red if negative  
+Simple Calculator:   
+Two number inputs   
+Select operator (+ − × ÷)   
+Output: result   
 
-https://github.com/user-attachments/assets/22cbe067-af21-440a-9c0e-f00cd3ef9e55
+https://github.com/user-attachments/assets/e9bc546e-e8a4-463d-9539-e2a38009c0d2
 
 ---
 
